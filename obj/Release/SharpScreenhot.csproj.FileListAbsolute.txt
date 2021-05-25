@@ -1,0 +1,6 @@
+E:\C#\github\SharpScreenhot\bin\Release\SharpScreenhot.exe
+E:\C#\github\SharpScreenhot\bin\Release\SharpScreenhot.pdb
+E:\C#\github\SharpScreenhot\obj\Release\SharpScreenhot.csprojAssemblyReference.cache
+E:\C#\github\SharpScreenhot\obj\Release\SharpScreenhot.csproj.CoreCompileInputs.cache
+E:\C#\github\SharpScreenhot\obj\Release\SharpScreenhot.exe
+E:\C#\github\SharpScreenhot\obj\Release\SharpScreenhot.pdb
